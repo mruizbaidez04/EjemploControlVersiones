@@ -23,3 +23,20 @@ l <- 3
 AreaCuadrado <- l^2
 ```
 
+# Área triángulo
+
+```{r}
+base <- 2
+altura <- 3
+AreaTriangulo <- (base * altura) / 2
+```
+
+# Área rectángulo
+
+```{r}
+base <- 4
+altura <- 2
+AreaCuadrado <- base * altura
+```
+
+
